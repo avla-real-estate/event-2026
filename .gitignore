@@ -1,0 +1,46 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Build / cache
+dist/
+build/
+.cache/
+*.log
+
+# Vercel
+.vercel/cache/
+.vercel/output/
+# project.json KALSIN — projectId+orgId, deploy için lazım
+
+# Netlify
+.netlify/
+
+# Secrets (asla commit edilmesin)
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+secrets.json
+credentials.json
+
+# OS junk
+.Spotlight-V100
+.Trashes
+ehthumbs_vista.db

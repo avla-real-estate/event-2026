@@ -1,0 +1,9 @@
+{
+  "name": "avla-event-2026",
+  "version": "1.0.0",
+  "description": "Avla Event 7 Haziran 2026 landing + RSVP API",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  }
+}
